@@ -1,0 +1,14 @@
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\bin\Debug\net8.0\Atividade_Cliente.exe
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\bin\Debug\net8.0\Atividade_Cliente.deps.json
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\bin\Debug\net8.0\Atividade_Cliente.runtimeconfig.json
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\bin\Debug\net8.0\Atividade_Cliente.dll
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\bin\Debug\net8.0\Atividade_Cliente.pdb
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.AssemblyInfo.cs
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.dll
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\refint\Atividade_Cliente.dll
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.pdb
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\Atividade_Cliente.genruntimeconfig.cache
+C:\Users\diego\Documents\SENAI-LOGICA-PROGRAMACAO\curso-codificacao-Backend\OOP\Atividade_CLiente\obj\Debug\net8.0\ref\Atividade_Cliente.dll
