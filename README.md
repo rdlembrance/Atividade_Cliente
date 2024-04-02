@@ -4,7 +4,7 @@ O sistema permite a inserção de clientes pf e pj, seus valores de compra,
 assim como o valor dos impostos (10% para pf e 20% para pj) e o total da compra com impostos.
 
 Tecnologias utilizadas:
-linguegem C#;
+linguagem C#;
 .NET;
 Visual Studio Code;
 
